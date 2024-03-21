@@ -16,6 +16,16 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+The time has come the walrus said  
+To speak of many thing,  
+Of shoes and ship and sealing wax,  
+Of cabbages and kings  
+Of why the sea is boiling hot,  
+and whether pigs have wings 
+
+
+
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -45,3 +55,10 @@ Had got no business to be there
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In twilight's glow, whispers dance,   
+Soft melodies of chance.  
+Each word a tale, each rhyme a glance,  
+In the poet's trance, we advance,  
+Into the realms of circumstance.  
+
